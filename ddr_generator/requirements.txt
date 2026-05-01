@@ -1,0 +1,7 @@
+streamlit
+PyMuPDF
+google-genai
+pydantic
+fpdf2
+python-dotenv
+groq
